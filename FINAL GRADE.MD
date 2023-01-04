@@ -13,7 +13,7 @@
     - A.Computer hardware [ref4you](https://github.com/MyDearGreatTeacher/ComputerScience2022/blob/main/CourseMaterials/ComputerHardware.md) 
     - B.Operating system  [ref4you](https://github.com/MyDearGreatTeacher/ComputerScience2022/blob/main/CourseMaterials/Operatingsystem.md)
 
-## YOUR CURRENT score
+## YOUR CURRENT score:FINAL = midterm*0.3 + Final(Computer system)*0.3  + (Python REPORT + Computer Network REPORT)*0.2
 
 | name |CHinese name| SID| midterm |Final(Computer system)| Python REPORT | Computer Network REPORT| PASS or not|
 | -- | -- | -- | -- | -- | -- | -- | -- | 
@@ -27,7 +27,8 @@
 | 4110E207| 4110E207 | 4110E207 |  |  | 80| 81| + linux CTF| 
 | 4110E208| 4110E208 | 4110E208 |  |  | 85 |82 | | 
 | 4110E210| 4110E210 | 4110E210 |  | 83| 90(200+ pages) |82 | + linux CTF|| 
+| 4110E211| 4110E211 | 4110E211 |  | 80 |  85(200+ pages)| 80 | | 
 | 4110E214| 4110E214 | 4110E214 |  | | 90(200+ pages) | | | 
-| 4110E234| 4110E234  | 4110E234 |  |  | 95(300- pages) | | | 
+| 4110E234| 4110E234  | 4110E234 |  |  | 95(300- pages) | 85| | 
 | 4110E240| 4110E240  | 4110E240 |  | 40(<100 pages) | 90(200pages) | 40(<100 pages) | | 
 
